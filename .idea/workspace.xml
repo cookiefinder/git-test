@@ -1,127 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="58053ea9-a555-4872-9d00-af392cb6a459" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/ci.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/ci.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
-  <component name="GradleLocalSettings">
-    <option name="projectSyncType">
-      <map>
-        <entry key="$PROJECT_DIR$/../../../../projects/backProjects/SpringBootKotlin" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../projects/backProjects/blog" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../projects/backProjects/demo" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../projects/backProjects/gocd-pipeline-demo" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../projects/backProjects/gradle-demo" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../projects/backProjects/groovy-beans" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../projects/backProjects/keycloak" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../projects/backProjects/learn-gradle" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../projects/backProjects/messaging-rabbitmq" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../projects/backProjects/mustache" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../projects/backProjects/oauth2" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../projects/backProjects/reservation" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../projects/backProjects/restAssured" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../projects/backProjects/security" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../projects/backProjects/security-keycloak-demo" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../projects/backProjects/sell" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../projects/backProjects/spring-cloud-config-client-demo" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../projects/backProjects/spring-cloud-config-server-demo" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../projects/backProjects/spring-security-demo" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../projects/backProjects/spring-transaction-demo" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../projects/backProjects/test" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../projects/gocd-pipeline-env/gocd-pipeline-demo" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../projects/pipeline/pipeline-demo" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../projects/spring-cloud/spring-cloud-stream" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../promotion/tdd-practice-20200324/tdd-gilded-rose" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../restaurant" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../tdd-practice-20200324/locker_robot" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../tdd-practice-20200324/pair2/tdd-locker-robot" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../tdd-practice-20200324/tdd-locker-robot" value="PREVIEW" />
-        <entry key="$USER_HOME$/Documents/projects/backProjects/SpringBootKotlin" value="PREVIEW" />
-        <entry key="$USER_HOME$/Documents/projects/backProjects/blog" value="PREVIEW" />
-        <entry key="$USER_HOME$/Documents/projects/backProjects/demo" value="PREVIEW" />
-        <entry key="$USER_HOME$/Documents/projects/backProjects/gocd-pipeline-demo" value="PREVIEW" />
-        <entry key="$USER_HOME$/Documents/projects/backProjects/gradle-demo" value="PREVIEW" />
-        <entry key="$USER_HOME$/Documents/projects/backProjects/groovy-beans" value="PREVIEW" />
-        <entry key="$USER_HOME$/Documents/projects/backProjects/keycloak" value="PREVIEW" />
-        <entry key="$USER_HOME$/Documents/projects/backProjects/learn-gradle" value="PREVIEW" />
-        <entry key="$USER_HOME$/Documents/projects/backProjects/messaging-rabbitmq" value="PREVIEW" />
-        <entry key="$USER_HOME$/Documents/projects/backProjects/mustache" value="PREVIEW" />
-        <entry key="$USER_HOME$/Documents/projects/backProjects/oauth2" value="PREVIEW" />
-        <entry key="$USER_HOME$/Documents/projects/backProjects/reservation" value="PREVIEW" />
-        <entry key="$USER_HOME$/Documents/projects/backProjects/restAssured" value="PREVIEW" />
-        <entry key="$USER_HOME$/Documents/projects/backProjects/security" value="PREVIEW" />
-        <entry key="$USER_HOME$/Documents/projects/backProjects/security-keycloak-demo" value="PREVIEW" />
-        <entry key="$USER_HOME$/Documents/projects/backProjects/sell" value="PREVIEW" />
-        <entry key="$USER_HOME$/Documents/projects/backProjects/spring-cloud-config-client-demo" value="PREVIEW" />
-        <entry key="$USER_HOME$/Documents/projects/backProjects/spring-cloud-config-server-demo" value="PREVIEW" />
-        <entry key="$USER_HOME$/Documents/projects/backProjects/spring-security-demo" value="PREVIEW" />
-        <entry key="$USER_HOME$/Documents/projects/backProjects/spring-transaction-demo" value="PREVIEW" />
-        <entry key="$USER_HOME$/Documents/projects/backProjects/test" value="PREVIEW" />
-        <entry key="$USER_HOME$/Documents/projects/gocd-pipeline-env/gocd-pipeline-demo" value="PREVIEW" />
-        <entry key="$USER_HOME$/Documents/projects/pipeline/pipeline-demo" value="PREVIEW" />
-        <entry key="$USER_HOME$/Documents/projects/spring-cloud/spring-cloud-stream" value="PREVIEW" />
-        <entry key="$USER_HOME$/Documents/promotion/tdd-practice-20200324/tdd-gilded-rose" value="PREVIEW" />
-        <entry key="$USER_HOME$/Documents/restaurant" value="PREVIEW" />
-        <entry key="$USER_HOME$/Documents/study/tdd-practice-20200324/locker_robot" value="PREVIEW" />
-        <entry key="$USER_HOME$/Documents/study/tdd-practice-20200324/pair2/tdd-locker-robot" value="PREVIEW" />
-        <entry key="$USER_HOME$/Documents/study/tdd-practice-20200324/tdd-locker-robot" value="PREVIEW" />
-        <entry key="$USER_HOME$/Downloads/pipeline-demo" value="PREVIEW" />
-        <entry key="$USER_HOME$/Downloads/practice-demo" value="PREVIEW" />
-        <entry key="$USER_HOME$/Downloads/spring-cloud-demo" value="PREVIEW" />
-        <entry key="$USER_HOME$/Downloads/tdd-demo" value="PREVIEW" />
-        <entry key="$USER_HOME$/IdeaProjects/b2b-backend" value="PREVIEW" />
-        <entry key="$USER_HOME$/IdeaProjects/dcsp2-backend" value="PREVIEW" />
-        <entry key="$USER_HOME$/IdeaProjects/scan/report-center-api" value="PREVIEW" />
-        <entry key="$USER_HOME$/IdeaProjects/scan/sensitive-info-auditor" value="PREVIEW" />
-        <entry key="$USER_HOME$/twuc/01-simplest-app-homework" value="PREVIEW" />
-        <entry key="$USER_HOME$/twuc/02-1-api-routing-and-http-method" value="PREVIEW" />
-        <entry key="$USER_HOME$/twuc/03-1-parameter-binding" value="PREVIEW" />
-        <entry key="$USER_HOME$/twuc/04-1-customize-response" value="PREVIEW" />
-        <entry key="$USER_HOME$/twuc/05-1-error-handling" value="PREVIEW" />
-        <entry key="$USER_HOME$/twuc/06-1-ioc" value="PREVIEW" />
-        <entry key="$USER_HOME$/twuc/06-2-ioc-scope" value="PREVIEW" />
-        <entry key="$USER_HOME$/twuc/06-2-ioc-scope-3" value="PREVIEW" />
-        <entry key="$USER_HOME$/twuc/final-quiz-backend" value="PREVIEW" />
-        <entry key="$USER_HOME$/twuc/hercules-master/acg-mock-server" value="PREVIEW" />
-        <entry key="$USER_HOME$/twuc/hercules-master/order-service" value="PREVIEW" />
-        <entry key="$USER_HOME$/twuc/hercules-master/user-service" value="PREVIEW" />
-        <entry key="$USER_HOME$/twuc/hercules-master/webapi-gateway" value="PREVIEW" />
-        <entry key="$USER_HOME$/twuc/hercules/acg-mock-server" value="PREVIEW" />
-        <entry key="$USER_HOME$/twuc/hercules/order-service" value="PREVIEW" />
-        <entry key="$USER_HOME$/twuc/hercules/user-service" value="PREVIEW" />
-        <entry key="$USER_HOME$/twuc/hercules/webapi-gateway" value="PREVIEW" />
-        <entry key="$USER_HOME$/twuc/jpa" value="PREVIEW" />
-        <entry key="$USER_HOME$/twuc/movie-before-refactor" value="PREVIEW" />
-        <entry key="$USER_HOME$/twuc/quiz-1" value="PREVIEW" />
-        <entry key="$USER_HOME$/twuc/quiz-2" value="PREVIEW" />
-        <entry key="$USER_HOME$/twuc/quiz-3-final/backend" value="PREVIEW" />
-        <entry key="$USER_HOME$/twuc/react-with-redux-api" value="PREVIEW" />
-        <entry key="$USER_HOME$/twuc/redux-quiz-backend" value="PREVIEW" />
-        <entry key="$USER_HOME$/twuc/refactoring/1" value="PREVIEW" />
-        <entry key="$USER_HOME$/twuc/refactoring/2" value="PREVIEW" />
-        <entry key="$USER_HOME$/twuc/refactoring/3" value="PREVIEW" />
-        <entry key="$USER_HOME$/twuc/refactoring/4" value="PREVIEW" />
-        <entry key="$USER_HOME$/twuc/refactoring/5" value="PREVIEW" />
-        <entry key="$USER_HOME$/twuc/refactoring/6" value="PREVIEW" />
-        <entry key="$USER_HOME$/twuc/simpleApp" value="PREVIEW" />
-        <entry key="$USER_HOME$/twuc/spring-config" value="PREVIEW" />
-        <entry key="$USER_HOME$/twuc/tdd-ping-powl" value="PREVIEW" />
-        <entry key="$USER_HOME$/twuc/test-double" value="PREVIEW" />
-      </map>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
-    <option name="width" value="1920" />
-    <option name="height" value="959" />
+  <component name="ProjectId" id="1onPEFw6MW2H5xposfxgCySLESL" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58053ea9-a555-4872-9d00-af392cb6a459" name="Default Changelist" comment="" />
+      <created>1613919267278</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613919267278</updated>
+      <workItem from="1613919268313" duration="386000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="masterDetails">
     <states>
