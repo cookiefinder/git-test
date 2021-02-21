@@ -1,0 +1,6 @@
+plugins {
+    id 'idea'
+    id 'java'
+    // 带有打包插件，没有该插件，生产的包执行错误no main manifest attribute
+    id 'org.springframework.boot' version '2.1.2.RELEASE'
+}

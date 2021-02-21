@@ -1,8 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="58053ea9-a555-4872-9d00-af392cb6a459" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/git/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.github/workflows/ci.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/ci.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/git-test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/git-test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,6 +42,82 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/src/main">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="git-test" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="git-test" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="git-test" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="git-test" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build setup" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="git-test" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="documentation" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="git-test" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="help" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="git-test" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="git-test" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="verification" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectId" id="1onPEFw6MW2H5xposfxgCySLESL" />
   <component name="ProjectViewState">
     <option name="abbreviatePackageNames" value="true" />
@@ -20,14 +125,64 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="open mmutc2021" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="git-test [jar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.git-test [jar]" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -37,27 +192,68 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1613919267278</updated>
-      <workItem from="1613919268313" duration="386000" />
+      <workItem from="1613919268313" duration="2740000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="200" y="23" key="#Project_Structure" timestamp="1613921254595">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state x="200" y="23" key="#Project_Structure/0.23.1680.956@0.23.1680.956" timestamp="1613921254595" />
+    <state x="300" y="156" width="1143" height="719" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613921744381">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state x="300" y="156" width="1143" height="719" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.956@0.23.1680.956" timestamp="1613921744381" />
+    <state x="543" y="265" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1613921728097">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state x="543" y="265" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1680.956@0.23.1680.956" timestamp="1613921728097" />
+    <state width="1628" height="242" key="GridCell.Tab.0.bottom" timestamp="1613921214219">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state width="1628" height="242" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1613921214219" />
+    <state width="1628" height="242" key="GridCell.Tab.0.center" timestamp="1613921214218">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state width="1628" height="242" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1613921214218" />
+    <state width="1628" height="242" key="GridCell.Tab.0.left" timestamp="1613921214218">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state width="1628" height="242" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1613921214218" />
+    <state width="1628" height="242" key="GridCell.Tab.0.right" timestamp="1613921214219">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state width="1628" height="242" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1613921214219" />
+    <state x="408" y="145" key="NewModule_or_Project.wizard" timestamp="1613921085994">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state x="408" y="145" key="NewModule_or_Project.wizard/0.23.1680.956@0.23.1680.956" timestamp="1613921085994" />
+    <state x="269" y="23" key="SettingsEditor" timestamp="1613921096492">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state x="269" y="23" key="SettingsEditor/0.23.1680.956@0.23.1680.956" timestamp="1613921096492" />
+    <state x="426" y="383" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1613920998137">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state x="426" y="383" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1680.956@0.23.1680.956" timestamp="1613920998137" />
+    <state x="421" y="227" width="838" height="1032" key="run.anything.popup" timestamp="1613920570149">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state x="421" y="227" width="838" height="1032" key="run.anything.popup/0.23.1680.956@0.23.1680.956" timestamp="1613920570149" />
   </component>
 </project>
