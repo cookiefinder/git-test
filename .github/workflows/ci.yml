@@ -55,9 +55,12 @@ jobs:
           name: dist
           path: dist/
       - name: Start
-        run: |
-          cd dist
-          java -jar app.jar
+        uses: JamesIves/github-pages-deploy-action@master
+          env:
+            ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+            BRANCH: master
+            FOLDER: dist
+            BUILD_SCRIPT: java -jar app.jar
 
 
 
