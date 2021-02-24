@@ -27,7 +27,7 @@ start(){
     nohup java \
       -Dspring.profiles.active=$ENV \
       -Djasypt.encryptor.password=$ENCRYPTOR_PASSWORD \
-      -jar $APP_PATH > /dev/null 2>&1 &
+      -jar $APP_PATH > /var/log/app.log 2>&1 &
   fi
 }
 
