@@ -45,6 +45,7 @@ jobs:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         run: |
           cd dist
+          touch app.log
           sh app.sh restart
       - name: Health
         run: |

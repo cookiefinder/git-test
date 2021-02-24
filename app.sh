@@ -4,6 +4,7 @@ APP_PATH=$(cd `dirname $0`; pwd)/app.jar
 COMMAND=${1:-usage}
 ENV=${2:-local}
 ENCRYPTOR_PASSWORD=${3:-ukeplus}
+JAR=${4:-APP_PATH}
 
 usage() {
   echo 'Usage: sh app.sh [start|stop|restart|status] [ENV] [ENCRYPTOR_PASSWORD]'
@@ -27,7 +28,7 @@ start(){
     nohup java \
       -Dspring.profiles.active=$ENV \
       -Djasypt.encryptor.password=$ENCRYPTOR_PASSWORD \
-      -jar $APP_PATH > /var/log/app.log 2>&1 &
+      -jar $JAR > ./app.log 2>&1 &
   fi
 }
 
