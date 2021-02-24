@@ -24,6 +24,7 @@ jobs:
         run: |
           mkdir dist
           cp ./build/libs/*.jar dist/app.jar
+          cp ./app.sh dist/app.sh
       - name: Upload artifact
         uses: actions/upload-artifact@v2
         with:
