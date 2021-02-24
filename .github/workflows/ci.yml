@@ -50,6 +50,7 @@ jobs:
       - name: Health
         run: |
           cd dist
+          cat app.log
           sh app.sh health
 
 
